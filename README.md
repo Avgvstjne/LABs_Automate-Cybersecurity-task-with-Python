@@ -5,7 +5,7 @@
 
 [Create a conditional Statement](docs/LAB_Activity_CreateAConditionalStatement.pdf)
 
-[Create More Functions](docs/LAB_Activity_CreateMoreFuntions.pdf)
+[Create More Functions](docs/LAB_Activity_CreateMoreFunctions.pdf)
 
 [Work with strings in Python](docs/LAB_Activity_WorkWithStringsInPython.pdf)
 
