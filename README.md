@@ -1,13 +1,13 @@
 ## LABs_Automate-Cybersecurity-task-with-Python
 ---
 
-Assign Python Variables
+[Assign Python Variables](.docs/LAB_Activity_AssignPythonVariables.pdf)
 
-Create a conditional Statement
+[Create a conditional Statement](.docs/LAB_Activity_CreateAconditionalStatement.pdf)
 
-Create More Functions
+[Create More Functions](.docs/LAB_Activity_CreateMoreFuntions.pdf)
 
-Work with strings in Python
+[Work with strings in Python](.docs/LAB_Activity_WorkWithStringsInPython.pdf)
 
 ---
 
