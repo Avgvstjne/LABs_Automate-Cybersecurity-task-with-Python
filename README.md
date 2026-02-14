@@ -3,7 +3,7 @@
 
 [Practice Writing Python Code](docs/LAB_Activity_PracticeWritingPythonCode.pdf)
 
-[Define and call a function](docs/LAB_Activity_DefineAndCallAFuntion.pdf)
+[Define and call a function](docs/LAB_Activity_DefineAndCallAFunction.pdf)
 
 [Assign Python Variables](docs/LAB_Activity_AssignPythonVariables.pdf)
 
