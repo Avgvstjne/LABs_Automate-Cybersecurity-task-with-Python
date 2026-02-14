@@ -1,6 +1,10 @@
 ## LABs_Automate-Cybersecurity-task-with-Python
 ---
 
+[Practice Writing Python Code](docs/LAB_Activity_PracticeWritingPythonCode.pdf)
+
+[Define and call a function](docs/LAB_Activity_DefineAndCallAFuntion.pdf)
+
 [Assign Python Variables](docs/LAB_Activity_AssignPythonVariables.pdf)
 
 [Create a conditional Statement](docs/LAB_Activity_CreateAConditionalStatement.pdf)
